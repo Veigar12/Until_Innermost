@@ -3,8 +3,8 @@
 
 
 2019/05-24
-web 7-1, web 7-2 finish
-missing note:
+web 7-1, web 7-2 finish.
+ Missing note:
 274 279 282 283 297 299 301 304
 
 2019/05-18: 
